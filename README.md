@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subho-7
-- 👀 I’m interested in Cricket and Football Analytics
+- 👀 I’m interested in Cricket and Football Analytics and Data Science
 - 🌱 I’m currently learning Python, SQL and Tableau to enhance my Data Science and ML skills
 - 💞️ I’m looking to collaborate on cricket and football analytics projects and other industry specific ML projects for practice
 - 📫 How to reach me - DM me on Twitter @subhabrata85
